@@ -10,16 +10,16 @@ A 2D side-scrolling shoot'em up game.
 
 Features
 ---
-+ Edge Collider
++ Edge collider
 + Enemy ships :
   - Player tracking
   - Auto attacking
-  - Hit Animation
-  - Health Bar
+  - Hit animation
+  - Health bar
 + Player ship : 
-  - Health Bar
-  - Bullet Bar
+  - Health bar
+  - Bullet bar
 + Round :
-  - Round Counter
-  - Round Countdown
-  - Break Time
+  - Round counter
+  - Round countdown
+  - Break time
